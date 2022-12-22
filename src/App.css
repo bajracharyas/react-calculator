@@ -1,3 +1,23 @@
+.center {
+  margin: auto;
+  width: 50%;
+}
+
+.blue-bg {
+  background-color: aliceblue;
+}
+
+.rounded-corner {
+  border-radius: 5px;
+}
+
+.login-form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+}
+
 .App {
   text-align: center;
 }
